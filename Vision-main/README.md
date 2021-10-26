@@ -3,7 +3,7 @@ Projet GLP : "Vision Détection"
 
 Projet réalisé par BERANGER Christian, MOSQUERA Alexis et QIU Antoine
 Équipe Vision, L2-I-C 
-2020-2021
+2020-2021, dans le cadre de l'université
 
 --------------------------------
 
